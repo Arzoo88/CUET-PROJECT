@@ -1,0 +1,168 @@
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+C:\Users\STUDENT\Documents\Visual Studio 2012\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+C:\Users\STUDENT\Desktop\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+C:\Users\STUDENT\Desktop\Project\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+C:\Users\STUDENT\Desktop\Backup\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Report.resources
+C:\Users\STUDENT\Desktop\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.userid.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Report.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.userid.resources
+E:\anjaloproject\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Report.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.userid.resources
+G:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe.config
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.exe
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.pdb
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.exe
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\bin\Debug\WindowsFormsApplication31.pdb
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csprojResolveAssemblyReference.cache
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.bachelor.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classten.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.classtwelve.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.documents.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Final.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Form1.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Fpassword.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Properties.Resources.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.registration.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.Report.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.userid.resources
+E:\CUET PROJECT\CUET PROJECT\WindowsFormsApplication31 - Copy - Copy - Copy\WindowsFormsApplication31\obj\Debug\WindowsFormsApplication31.csproj.GenerateResource.Cache
